@@ -21,7 +21,7 @@
 ### MY STACKS:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,jquery,html,css,postgres,mongodb,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,jquery,html,css,postgres,mongodb,git,github,vscode,visualstudio,vercel" />
 </p>
 
 ---
