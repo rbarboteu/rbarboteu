@@ -12,7 +12,7 @@
 
 - 🧑‍💻 My name is Raphael Barboteu, I'm a Full Stack Developer.
 - 🔷 My main stack is **.NET / ASP.NET Core**, focused on APIs and back-end systems.
-- 📚 Currently studying **Systems Analysis and Development**.
+- 📚 **Software Engineer**.
 - 🚀 Always building personal projects to grow as a developer.
 - 📍 Based in **Rio de Janeiro, Brazil**.
 
