@@ -10,7 +10,7 @@
 
 ### About me:
 
-- 🧑‍💻 My name is Raphael Barboteu, I'm a Full Stack Developer.
+- 🧑‍💻 My name is Raphael Barboteu, I'm a .NET Engineer.
 - 🔷 My main stack is **.NET / ASP.NET Core**, focused on APIs and back-end systems.
 - 📚 **Software Engineer**.
 - 🚀 Always building personal projects to grow as a developer.
